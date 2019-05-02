@@ -12,7 +12,7 @@ Interrupt based driver for 7-segment display
 
 ### Installing
 1. Connect 7-segment displays to the 8051 microcontroller as shown in the following diagram:
-   <img src="7seg_interfacing.jpg" width="400">
+   <img src="7seg_interfacing.png" width="800">
 1. Open Keil and create new project
    * Choose Philips P89V51RD2 database
 1. Add 7seg_timer_interrupt.c file to Source Group
